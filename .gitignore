@@ -1,0 +1,7 @@
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Configuración de editores
+.vscode/
+.idea/
